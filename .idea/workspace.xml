@@ -35,8 +35,8 @@
       <file leaf-file-name="nasdaqdrone.gemspec" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nasdaqdrone.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="195">
+              <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -133,12 +133,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536760597109</updated>
       <workItem from="1536760598249" duration="22000" />
-      <workItem from="1536760854885" duration="526000" />
+      <workItem from="1536760854885" duration="683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="548000" />
+    <option name="totallyTimeSpent" value="705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="47" width="1400" height="833" extended-state="0" />
@@ -209,8 +209,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nasdaqdrone.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="195">
+          <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
           <folding />
         </state>
       </provider>
